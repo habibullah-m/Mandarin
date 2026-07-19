@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "Convo",
-    "slug": "Convo",
+    "name": "Mandarin",
+    "slug": "Mandarin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "convo",
+    "scheme": "mandarin",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.habibullahi.convo",
+      "bundleIdentifier": "com.habibullahi.Mandarin",
       "infoPlist": {
         "NSMicrophoneUsageDescription": "This app needs microphone access for pronunciation practice."
       }
@@ -22,7 +22,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.andreasstudios.convo",
+      "package": "com.habibullahi.Mandarin",
       "permissions": ["android.permission.RECORD_AUDIO"]
     },
     "web": {
