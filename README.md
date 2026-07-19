@@ -97,7 +97,7 @@ npx supabase secrets set SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
 Add your app redirect URL in Supabase Auth URL configuration:
 
 ```bash
-convo://
+mandarin://
 ```
 
 ### Frontend
